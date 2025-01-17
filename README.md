@@ -1,5 +1,5 @@
 # Math-Notes
-These notes cover what is typically seen in a standard mathematics education. These notes are broken up into sections Beginner, Intermediate, and Advanced. The Beginner section covers typical lower division courses, the Intermediate sections covers typical upper division course, and the advanced section covers topics which can help transition to graduate level mathematics. See the list of topics below.
+These notes cover what is typically seen in a standard mathematics education. These notes are broken up into sections Beginner, Intermediate, and Advanced. The Beginner section covers typical lower division courses, the Intermediate sections covers typical upper division courses, and the advanced section covers topics which can help transition to graduate level mathematics. See the list of topics below.
 
 Beginner:
 1. Differentiation and Integration
