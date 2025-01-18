@@ -17,7 +17,7 @@ Intermediate:
 4. Abstract Linear Algebra
 5. Groups, Rings, and Fields
 6. Principles of Real Analysis
-7. Multivariable Real Analysis
+7. Analysis of Manifolds
 8. Point-Set Topology
 9. Complex Variables
 10. Partial Differential Equations
