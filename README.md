@@ -11,13 +11,16 @@ Beginner:
 
 Intermediate:
 1. Probability Theory
-2. Number Theory
-3. Advanced Linear Algebra
-4. Mathematical Analysis I
-5. Mathematical Analysis II
-6. Abstract Algebra I
-7. Abstract Algebra II
-8. General Topology
-9. Partial Differential Equations
-10. Differential Geometry of Curves and Surfaces
+2. Mathematical Statistics
+3. Number Theory
+4. Abstract Linear Algebra
+5. Groups, Rings, and Fields
+6. Principles of Real Analysis
+7. Complex Variables
+8. Partial Differential Equations
+9. Point-Set Topology
+10. Analysis on Manifolds
+11. Differential Geometry of Curves and Surfaces
+12. Metric Spaces and Measure Theory
+13. Modules and Galois Theory
     
