@@ -8,6 +8,7 @@ Beginner:
 4. Vector Calculus
 5. Linear Algebra
 6. Ordinary Differential Equations
+7. Discrete Math
 
 Intermediate:
 1. Probability Theory
