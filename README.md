@@ -22,7 +22,7 @@ Intermediate:
 9. Point-Set Topology
 10. Analysis on Manifolds
 11. Differential Geometry of Curves and Surfaces
-12. Metric Spaces and Measure Theory
+12. Metric Spaces and Lebesgue Measure
 13. Modules and Galois Theory
 14. Basic Functional Analysis
     
