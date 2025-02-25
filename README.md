@@ -21,7 +21,7 @@ Undergraduate:
 7. Differential Geometry of Curves and Surfaces
 8. Point-Set Topology
 
-Advanced Undergraduate
-12. Advanced Analysis
-13. Advanced Algebra
+Advanced Undergraduate:
+1. Advanced Analysis
+2. Advanced Algebra
     
