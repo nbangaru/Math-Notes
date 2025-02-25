@@ -18,10 +18,9 @@ Undergraduate:
 4. Principles of Real Analysis
 5. Complex Variables
 6. Partial Differential Equations
-7. Differential Geometry of Curves and Surfaces
-8. Point-Set Topology
+7. Point-Set Topology
+8. Differential Geometry of Curves and Surfaces
 
 Advanced Undergraduate:
 1. Advanced Analysis
 2. Advanced Algebra
-    
