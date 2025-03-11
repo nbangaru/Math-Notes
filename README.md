@@ -8,6 +8,7 @@ Basics:
 6. Linear Algebra
 7. Differential Equations
 
+
 Undergraduate:
 1. Probability Theory
 2. Mathematical Statistics
