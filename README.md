@@ -6,7 +6,7 @@ Basics:
 3. Multivariable Calculus
 4. Vector Calculus
 6. Linear Algebra
-7. Ordinary Differential Equations
+7. Differential Equations
 
 Undergraduate:
 1. Probability Theory
