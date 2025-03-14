@@ -19,9 +19,10 @@ Undergraduate:
 7. Modules and Galois Theory
 8. Principles of Real Analysis
 9. Metric Spaces and Measure Theory in R^n
-10. Advanced Ordinary Differential Equations
-11. Partial Differential Equations
-12. Point-Set Topology
-13. Analysis on Manifolds in Euclidean Space
-14. Differential Geometry of Curves and Surfaces
+10. Basic Functional Analysis
+11. Advanced Ordinary Differential Equations
+12. Partial Differential Equations
+13. Point-Set Topology
+14. Analysis on Manifolds in Euclidean Space
+15. Differential Geometry of Curves and Surfaces
 
