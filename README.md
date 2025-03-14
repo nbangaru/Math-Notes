@@ -21,7 +21,7 @@ Undergraduate:
 9. Complex Variables
 10. Advanced Ordinary Differential Equations
 11. Partial Differential Equations
-12. Point-Set Topology
+12. Elementary Topology
 13. Analysis on Manifolds in Euclidean Space
 14. Differential Geometry of Curves and Surfaces
 
