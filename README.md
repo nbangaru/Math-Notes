@@ -14,8 +14,8 @@ Undergraduate:
 2. Mathematical Statistics
 3. Number Theory
 4. Advanced Linear Algebra
-5. Groups, Rings, and Fields
-6. Modules and Galois Theory
+5. Groups and Rings
+6. Modules, Fields, and Galois Theory
 7. Principles of Real Analysis
 8. Metric Spaces and Measure Theory in R^n
 9. Complex Variables
