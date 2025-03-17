@@ -5,8 +5,9 @@ Basics:
 2. Sequences, Series, Parametrics, and Polar Coordinates
 3. Multivariable Calculus
 4. Vector Calculus
-6. Linear Algebra
-7. Differential Equations
+5. Linear Algebra
+6. Differential Equations
+7. Introduction to Proof Writing
 
 
 Undergraduate:
