@@ -12,17 +12,16 @@ Basics:
 
 Undergraduate:
 1. Probability Theory
-2. Mathematical Statistics
-3. Number Theory
-4. Abstract Linear Algebra
-5. Groups, Rings, and Fields
-6. Principles of Real Analysis
-7. Complex Variables
-8. Advanced Ordinary Differential Equations
-9. Partial Differential Equations
-10. Point-Set Topology
-11. Analysis on Manifolds
-12. Differential Geometry of Curves and Surfaces
-13. Metric Spaces and Measure Theory in R^n
-14. Modules and Galois Theory
+2. Number Theory
+3. Abstract Linear Algebra
+4. Groups, Rings, and Fields
+5. Principles of Real Analysis
+6. Complex Variables
+7. Advanced Ordinary Differential Equations
+8. Partial Differential Equations
+9. Point-Set Topology
+10. Analysis on Manifolds
+11. Differential Geometry of Curves and Surfaces
+12. Metric Spaces and Measure Theory in R^n
+13. Modules and Galois Theory
 
