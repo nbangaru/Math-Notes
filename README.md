@@ -16,12 +16,13 @@ Undergraduate:
 3. Number Theory
 4. Abstract Linear Algebra
 5. Groups, Rings, and Fields
-7. Principles of Real Analysis
-9. Complex Variables
-10. Advanced Ordinary Differential Equations
-11. Partial Differential Equations
-12. Point-Set Topology
-14. Differential Geometry of Curves and Surfaces
-9. Metric Spaces and Measure Theory in R^n
-10. Modules and Galois Theory
+6. Principles of Real Analysis
+7. Complex Variables
+8. Advanced Ordinary Differential Equations
+9. Partial Differential Equations
+10. Point-Set Topology
+11. Analysis on Manifolds
+12. Differential Geometry of Curves and Surfaces
+13. Metric Spaces and Measure Theory in R^n
+14. Modules and Galois Theory
 
