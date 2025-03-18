@@ -20,7 +20,7 @@ Undergraduate:
 7. Advanced Ordinary Differential Equations
 8. Partial Differential Equations
 9. Point-Set Topology
-10. Analysis on Manifolds
+10. Analysis on Manifolds in Euclidean Space
 11. Differential Geometry of Curves and Surfaces
 12. Metric Spaces and Measure Theory in R^n
 13. Modules and Galois Theory
