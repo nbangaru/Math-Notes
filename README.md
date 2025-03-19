@@ -17,9 +17,9 @@ Undergraduate:
 14. Modules and Galois Theory
 15. Principles of Real Analysis
 16. Metric Spaces and Measure Theory in R^n
-17. Advanced Ordinary Differential Equations
-18. Partial Differential Equations
-19. Elementary Topology
+17. Elementary Topology
+18. Advanced Ordinary Differential Equations
+19. Partial Differential Equations
 20. Differential Geometry of Curves and Surfaces
 
 
