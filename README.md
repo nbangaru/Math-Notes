@@ -18,7 +18,7 @@ Undergraduate:
 15. Advanced Ordinary Differential Equations
 16. Partial Differential Equations
 17. Elementary Topology
-18. Analysis on Manifolds in Euclidean Space
+18. Vector Analysis and Differential Forms in R^n
 19. Differential Geometry of Curves and Surfaces
 20. Metric Spaces and Measure Theory in R^n
 21. Modules and Galois Theory
