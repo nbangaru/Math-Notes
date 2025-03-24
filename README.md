@@ -15,13 +15,14 @@ Basics:
 12. Advanced Linear Algebra
 13. Principles of Real Analysis
 14. Groups, Rings, and Fields
-15. Advanced Ordinary Differential Equations
+15. Ordinary Differential Equations
 16. Partial Differential Equations
 17. General Topology
 18. Vector Analysis and Differential Forms in Euclidean Space
 19. Differential Geometry of Curves and Surfaces
 20. Metric Spaces and Measure Theory in R^n
 21. Modules and Galois Theory
+22. Basic Functional Analysis
 
 
 
