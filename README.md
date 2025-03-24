@@ -22,7 +22,6 @@ Basics:
 19. Differential Geometry of Curves and Surfaces
 20. Metric Spaces and Measure Theory in R^n
 21. Modules and Galois Theory
-22. Basic Functional Analysis
 
 
 
