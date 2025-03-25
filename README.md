@@ -15,15 +15,16 @@ Intermediate:
 1. Elementary Number Theory
 2. Advanced Linear Algebra
 3. Groups, Rings, and Fields
-4. Principles of Real Analysis
-5. Complex Variables
-6. Ordinary Differential Equations
-7. Partial Differential Equations
-8. General Topology
-9. Vector Analysis and Differential Forms in R^n
-10. Differential Geometry of Curves and Surfaces
-11. Metric Spaces and Measure Theory in R^n
-12. Modules and Galois Theory
+4. Modules and Galois Theory
+5. Principles of Real Analysis
+6. Metric Spaces and Measure Theory in R^n
+7. Complex Variables
+8. Ordinary Differential Equations
+9. Partial Differential Equations
+10. General Topology
+11. Vector Analysis and Differential Forms in R^n
+12. Differential Geometry of Curves and Surfaces
+
 
 
 
