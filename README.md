@@ -7,25 +7,23 @@ Foundational:
 4. Vector Calculus
 5. Linear Algebra
 6. Differential Equations
-7. Introduction to Proof Writing
-
-Basics:
-1. Probability Theory
-2. Mathematical Statistics
-3. Elementary Number Theory
-4. Abstract Linear Algebra
-5. Groups, Rings, and Fields
-6. Principles of Real Analysis
-7. Complex Variables
-8. Ordinary Differential Equations
-9. Partial Differential Equations
-10. Point-Set Topology
-11. Analysis on Manifolds in Euclidean Space
-12. Differential Geometry of Curves and Surfaces
+7. Probability Theory
+8. Mathematical Statistics
+9. Introduction to Proof Writing
 
 Intermediate:
-1. Metric Spaces and Measure Theory in R^n
-2. Modules and Galois Theory
+1. Elementary Number Theory
+2. Advanced Linear Algebra
+3. Groups, Rings, and Fields
+4. Principles of Real Analysis
+5. Complex Variables
+6. Ordinary Differential Equations
+7. Partial Differential Equations
+8. General Topology
+9. Vector Analysis and Differential Forms in R^n
+10. Differential Geometry of Curves and Surfaces
+11. Metric Spaces and Measure Theory in R^n
+12. Modules and Galois Theory
 
 
 
