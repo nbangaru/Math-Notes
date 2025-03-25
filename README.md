@@ -17,9 +17,9 @@ Intermediate:
 3. Groups, Rings, and Fields
 5. Principles of Real Analysis
 7. Complex Variables
-8. Ordinary Differential Equations
 9. Partial Differential Equations
 10. Point-Set Topology
+11. Analysis on Manifolds in Euclidean Space
 12. Differential Geometry of Curves and Surfaces
 
 
