@@ -6,12 +6,10 @@ Foundational:
 3. Multivariable Calculus
 4. Vector Calculus
 5. Linear Algebra
-6. Differential Equations
+6. Ordinary Differential Equations
 7. Probability Theory
 8. Mathematical Statistics
 9. Introduction to Proof Writing
-
-Intermediate:
 1. Elementary Number Theory
 2. Abstract Linear Algebra
 3. Groups, Rings, and Fields
