@@ -10,14 +10,16 @@ Foundational:
 7. Probability Theory
 8. Mathematical Statistics
 9. Introduction to Proof Writing
+
+Intermediate:
 1. Elementary Number Theory
-2. Abstract Linear Algebra
+2. Advanced Linear Algebra
 3. Groups, Rings, and Fields
 5. Principles of Real Analysis
 7. Complex Variables
 9. Partial Differential Equations
-10. Point-Set Topology
-11. Analysis on Manifolds in Euclidean Space
+10. General Topology
+11. Vector Analysis and Differential Forms in R^n
 12. Differential Geometry of Curves and Surfaces
 
 
