@@ -6,7 +6,7 @@ Foundational:
 3. Multivariable Calculus
 4. Vector Calculus
 5. Linear Algebra
-6. Ordinary Differential Equations
+6. Differential Equations
 7. Probability Theory
 8. Mathematical Statistics
 9. Introduction to Proof Writing
@@ -16,7 +16,7 @@ Intermediate:
 2. Advanced Linear Algebra
 3. Groups, Rings, and Fields
 5. Principles of Real Analysis
-7. Complex Variables
+7. Basic Complex Analysis
 9. Partial Differential Equations
 10. General Topology
 11. Vector Analysis and Differential Forms in R^n
