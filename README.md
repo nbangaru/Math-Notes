@@ -17,7 +17,7 @@ Undergraduate:
 14. Complex Variables
 15. Partial Differential Equations
 16. Point-Set Topology
-17. Analysis on Manifolds
+17. Analysis on Manifolds in Euclidean Space
 18. Differential Geometry of Curves and Surfaces
 19. Metric Spaces and Measure Theory in R^n
 20. Modules and Galois Theory
