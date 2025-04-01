@@ -6,7 +6,7 @@ Basics:
 3. Multivariable Calculus
 4. Vector Calculus
 5. Linear Algebra
-6. Ordinary Differential Equations
+6. Differential Equations
 7. Probability Theory
 8. Mathematical Statistics
 9. Introduction to Proof Writing
