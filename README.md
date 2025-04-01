@@ -10,7 +10,7 @@ Basics:
 9. Introduction to Proof Writing
 
 Undergraduate:
-7. Probability Theory
+1. Probability Theory
 1. Elementary Number Theory
 2. Principles of Real Analysis
 3. Advanced Linear Algebra
