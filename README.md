@@ -7,12 +7,10 @@ Basics:
 4. Vector Calculus
 5. Linear Algebra
 6. Differential Equations
-7. Probability Theory
-8. Mathematical Statistics
 9. Introduction to Proof Writing
 
-
 Undergraduate:
+7. Probability Theory
 1. Elementary Number Theory
 2. Principles of Real Analysis
 3. Advanced Linear Algebra
