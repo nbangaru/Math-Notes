@@ -7,7 +7,7 @@ Basics:
 4. Vector Calculus
 5. Linear Algebra
 6. Differential Equations
-7. Introduction to Proof Writing
+7. Bridge to Higher Math
 
 Intermediate:
 1. Probability Theory
