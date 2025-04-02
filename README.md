@@ -12,15 +12,16 @@ Basics:
 Undergraduate:
 1. Probability Theory
 2. Mathematical Statistics
-3. Elementary Number Theory
-4. Principles of Real Analysis
-5. Advanced Linear Algebra
-6. Groups, Rings, and Fields
-7. Basic Complex Analysis
-8. Ordinary Differential Equations
-9. Partial Differential Equations
-10. General Topology
-11. Differential Geometry of Curves and Surfaces
+3. Combinatorics and Graph Theory
+4. Elementary Number Theory
+5. Principles of Real Analysis
+6. Advanced Linear Algebra
+7. Groups, Rings, and Fields
+8. Basic Complex Analysis
+9. Ordinary Differential Equations
+10. Partial Differential Equations
+11. General Topology
+12. Differential Geometry of Curves and Surfaces
 
     
 
