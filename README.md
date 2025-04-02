@@ -12,7 +12,6 @@ Basics:
 Intermediate:
 1. Probability Theory
 2. Mathematical Statistics
-3. Combinatorics and Graph Theory
 4. Elementary Number Theory
 5. Principles of Real Analysis
 6. Advanced Linear Algebra
