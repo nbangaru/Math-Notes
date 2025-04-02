@@ -9,7 +9,7 @@ Basics:
 6. Differential Equations
 7. Introduction to Proof Writing
 
-Undergraduate:
+Intermediate:
 1. Probability Theory
 2. Mathematical Statistics
 3. Combinatorics and Graph Theory
