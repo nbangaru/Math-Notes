@@ -15,7 +15,7 @@ Intermediate:
 4. Elementary Number Theory
 5. Principles of Real Analysis
 6. Advanced Linear Algebra
-7. Groups, Rings, and Fields
+7. Abstract Algebra
 8. Complex Variables
 9. Ordinary Differential Equations
 10. Partial Differential Equations
