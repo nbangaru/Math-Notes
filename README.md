@@ -17,11 +17,12 @@ Intermediate:
 5. Principles of Real Analysis
 6. Advanced Linear Algebra
 7. Groups, Rings, and Fields
-8. Basic Complex Analysis
+8. Complex Variables
 9. Ordinary Differential Equations
 10. Partial Differential Equations
 11. General Topology
-12. Differential Geometry of Curves and Surfaces
+12. Analysis on Manifolds in Euclidean Space
+13. Differential Geometry of Curves and Surfaces
 
     
 
