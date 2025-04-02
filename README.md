@@ -21,6 +21,8 @@ Undergraduate:
 9. Partial Differential Equations
 10. General Topology
 11. Differential Geometry of Curves and Surfaces
+12. Metric Spaces and Measure Theory in R^n
+13. Modules and Galois Theory
 
     
 
