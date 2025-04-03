@@ -6,21 +6,21 @@ Basics:
 3. Multivariable Calculus
 4. Vector Calculus
 5. Linear Algebra
-6. Ordinary Differential Equations 
+6. Differential Equations and Boundary Value Problems
 7. Proof Writing and Discrete Math
+   
 1. Probability Theory
-2. Mathematical Statistics
 3. Elementary Number Theory
-4. Abstract Linear Algebra
-5. Groups, Rings, and Fields
+4. Advanced Linear Algebra
+5. Abstract Algebra
 6. Principles of Real Analysis
 7. Complex Variables
+8. Ordinary Differential Equations
 9. Partial Differential Equations
-10. Point-Set Topology
+10. General Topology
 11. Analysis on Manifolds in Euclidean Space
 12. Differential Geometry of Curves and Surfaces
-13. Measure Theory in R^n
-14. Galois Theory
+
 
     
 
