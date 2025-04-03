@@ -1,6 +1,6 @@
 # Math-Notes
 
-Basics:
+Undergraduate:
 1. Differentiation and Integration
 2. Sequences, Series, Parametrics, and Polar Coordinates
 3. Multivariable Calculus
