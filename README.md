@@ -12,7 +12,7 @@ Basics:
 2. Mathematical Statistics
 3. Elementary Number Theory
 4. Abstract Linear Algebra
-5. Abstract Algebra
+5. Groups, Rings, and Fields
 6. Principles of Real Analysis
 7. Complex Variables
 9. Partial Differential Equations
