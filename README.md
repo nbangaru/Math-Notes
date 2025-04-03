@@ -6,7 +6,7 @@ Basics:
 3. Multivariable Calculus
 4. Vector Calculus
 5. Linear Algebra
-6. Differential Equations
+6. Differential Equations and Boundary value Problems
 7. Proof Writing
 
 Undergraduate:
