@@ -8,7 +8,8 @@ Basics:
 5. Linear Algebra
 6. Differential Equations and Boundary Value Problems
 7. Proof Writing and Discrete Math
-   
+
+Intermediate:
 1. Probability Theory
 3. Elementary Number Theory
 4. Advanced Linear Algebra
