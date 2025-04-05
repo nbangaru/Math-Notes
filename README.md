@@ -11,7 +11,7 @@ Undergraduate:
 8. Probability Theory
 9. Mathematical Statistics
 10. Elementary Number Theory
-11. Abstract Linear Algebra
+11. Advanced Linear Algebra
 12. Abstract Algerba
 13. Principles of Real Analysis
 14. Complex Variables
