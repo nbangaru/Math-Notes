@@ -17,7 +17,8 @@ Undergraduate:
 14. Complex Variables
 15. Partial Differential Equations
 16. Point-Set Topology
-17. Differential Geomtery of Curves and Surfaces
+17. Analysis on Manifolds in Euclidean Space
+18. Differential Geomtery of Curves and Surfaces
 
 
 
