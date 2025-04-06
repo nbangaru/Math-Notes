@@ -16,8 +16,8 @@ Undergraduate:
 13. Principles of Real Analysis
 14. Complex Variables
 15. Partial Differential Equations
-16. Point-Set Topology
-18. Differential Geometry of Curves and Surfaces
+16. Topology
+18. Differential Geometry
 
 
 
