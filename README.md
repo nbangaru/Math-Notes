@@ -1,6 +1,6 @@
 # Math-Notes
 
-Undergraduate:
+Basics:
 1. Differentiation and Integration
 2. Sequences, Series, and Polar Coordinates
 3. Multivariable Calculus
@@ -8,16 +8,22 @@ Undergraduate:
 5. Linear Algebra
 6. Ordinary Differential Equations
 7. Discrete Math
-8. Probability Theory
-9. Mathematical Statistics
-10. Elementary Number Theory
-11. Abstract Linear Algebra
-12. Abstract Algerba
-13. Principles of Real Analysis
-14. Complex Variables
-15. Partial Differential Equations
-16. Topology
-18. Differential Geometry
+   
+Electives:
+1. Probability Theory
+2. Mathematical Statistics
+3. Elementary Number Theory
+4. Complex Variables
+5. Partial Differential Equations
+6. Differential Geometry of Curves and Surfaces
+
+Core:
+1. Advanced Linear Algebra
+2. Principles of Real Analysis
+3. Abstract Algebra
+4. General Topology
+
+
 
 
 
