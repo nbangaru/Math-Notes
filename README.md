@@ -17,7 +17,6 @@ Core:
 4. General Topology *
    
 Electives: 
-1. Combinatorics and Graph Theory *
 1. Probability Theory *
 3. Elementary Number Theory *
 4. Complex Variables *
