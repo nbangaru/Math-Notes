@@ -24,6 +24,9 @@ Electives:
 5. Partial Differential Equations *
 6. Differential Geometry of Curves and Surfaces *
 
+Competition:
+- Putnam Guide
+
 
 
 
