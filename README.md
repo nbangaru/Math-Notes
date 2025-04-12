@@ -22,6 +22,11 @@ Basics:
 17. Differential Geometry of Curves and Surfaces *
 
 
+Intermediate:
+1. Measure and Integration in R^n
+2. Advanced Algebra
+
+
 
 
 
