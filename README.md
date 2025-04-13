@@ -1,4 +1,6 @@
 # Math-Notes
+Material for undergrads interested in the fields of Analysis, Algebra, and Topology/Geometry
+
 
 * - Indicates Incomplete
 
@@ -9,6 +11,7 @@ Basics:
 4. Vector Calculus *
 5. Linear Algebra *
 6. Ordinary Differential Equations *
+7. Proof-Writing
 
 Core:
 1. Principles of Real Analysis *
@@ -18,7 +21,6 @@ Core:
 
 Electives:
 1. Number Theory *
-2. Combinatorics and Graph Theory *
 3. Probability Theory *
 4. Complex Variables *
 5. Partial Differential Equations *
