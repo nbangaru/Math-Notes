@@ -25,9 +25,9 @@ Intermediate:
 9. Point-Set Topology *
 10. Differential Geometry of Curves and Surfaces *
 
-Advanced:
-1. Metric Spaces and Measure Theory in R^n
-2. Algebra
+More Advanced:
+1. Metric Spaces and Measure Theory in R^n *
+2. Algebra *
 
 
 
