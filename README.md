@@ -11,21 +11,23 @@ Basics:
 4. Vector Calculus *
 5. Linear Algebra *
 6. Ordinary Differential Equations *
-7. Proof-Writing
+7. Discrete Math *
 
-Core:
-1. Principles of Real Analysis *
-2. Advanced Linear Algebra *
-3. Abstract Algebra *
-4. General Topology *
+Intermediate:
+1. Probability Theory *
+2. Mathematical Statistics *
+3. Elementary Number Theory *
+4. Abstract Linear Algebra *
+5. Abstract Algebra *
+6. Principles of Real Analysis *
+7. Complex Variables *
+8. Partial Differential Equations *
+9. Point-Set Topology
+10. Differential Geometry of Curves and Surfaces *
 
-Electives:
-1. Number Theory *
-3. Probability Theory *
-4. Complex Variables *
-5. Partial Differential Equations *
-6. Differential Geometry of Curves and Surfaces *
-
+Advanced:
+1. Metric Spaces and Measure Theory in R^n
+2. Algebra
 
 
 
