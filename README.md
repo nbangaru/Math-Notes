@@ -11,7 +11,7 @@ Basics:
 4. Vector Calculus *
 5. Linear Algebra *
 6. Ordinary Differential Equations *
-7. Discrete Math *
+7. Introduction to Proof Writing *
 
 Intermediate:
 1. Probability Theory *
