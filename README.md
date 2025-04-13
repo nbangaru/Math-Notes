@@ -22,7 +22,7 @@ Intermediate:
 6. Principles of Real Analysis *
 7. Complex Variables *
 8. Partial Differential Equations *
-9. Point-Set Topology
+9. Point-Set Topology *
 10. Differential Geometry of Curves and Surfaces *
 
 Advanced:
