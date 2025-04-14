@@ -23,7 +23,8 @@ Undergraduate:
 7. Complex Variables *
 8. Partial Differential Equations *
 9. Point-Set Topology *
-10. Differential Geometry of Curves and Surfaces *
+10. Analysis on Manifolds in Euclidean Space *
+11. Differential Geometry of Curves and Surfaces *
 
 Advanced Undergraduate:
 1. Metric Spaces and Measure Theory in R^n *
