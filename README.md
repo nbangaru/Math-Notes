@@ -4,16 +4,15 @@ Material for undergrads interested in the fields of Analysis, Algebra, and Topol
 
 * - Indicates Incomplete
 
-Foundations:
+Basics:
 1. Differentiation and Integration *
 2. Sequences, Series, and Polar Coordinates *
 3. Multivariable Calculus *
 4. Vector Calculus *
 5. Linear Algebra *
 6. Ordinary Differential Equations *
-7. Proof Writing and Discrete Math*
 
-Undergraduate:
+Intermediate:
 1. Probability Theory *
 2. Mathematical Statistics *
 3. Elementary Number Theory *
@@ -23,15 +22,12 @@ Undergraduate:
 7. Complex Variables *
 8. Partial Differential Equations *
 9. Point-Set Topology *
-10. Analysis on Manifolds in Euclidean Space *
 11. Differential Geometry of Curves and Surfaces *
 
-Advanced Undergraduate:
-1. Metric Spaces and Measure Theory in R^n *
+
+More Advanced:
+1. Analysis *
 2. Algebra *
-
-
-
 
 
 
