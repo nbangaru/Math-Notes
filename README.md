@@ -24,9 +24,8 @@ Intermediate:
 9. Point-Set Topology *
 11. Differential Geometry of Curves and Surfaces *
 
-
 More Advanced:
-1. Analysis *
+1. Real Analysis *
 2. Algebra *
 
 
