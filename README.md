@@ -43,8 +43,8 @@ Topology/Geometry:
     - Differential Geometry of Curves and Surfaces *
   Graduate:
     - Algebraic Topology *
-    - Smooth Manifolds *
-    - Reimmanian Geometry *
+    - Differential Topology *
+    - Differential Geometry *
 
 
 
