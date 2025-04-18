@@ -13,7 +13,6 @@ Basics:
 
 
 Anaysis/PDE:
-
   Undergraduate:
     - Probability Theory *
     - Principles of Real Analysis *
@@ -28,7 +27,6 @@ Anaysis/PDE:
 
 
 Algebra/Number Theory:
-
   Undergraduate:
     - Elementary Number Theory *
     - Advanced Linear Algebra *
@@ -39,8 +37,7 @@ Algebra/Number Theory:
     - Algebraic Geometry *
 
 
-Algebra/Number Theory:
-
+Topology/Geometry:
   Undergraduate:
     - Point-Set Topology *
     - Differential Geometry of Curves and Surfaces *
