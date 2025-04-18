@@ -15,9 +15,9 @@ Basics:
 Anaysis/PDE:
 
   Undergraduate:
-    - Probability Theory
-    - Principles of Real Analysis
-    - Complex Variables
+    * Probability Theory
+    * Principles of Real Analysis
+    * Complex Variables
     - Partial Differential Equations
   Graduate:
     - Real Analysis and Topology *
