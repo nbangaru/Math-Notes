@@ -1,8 +1,7 @@
 # Math-Notes
-Material for undergrads interested in the fields of Analysis, Algebra, and Topology/Geometry
-
 
 * - Indicates Incomplete
+
 
 Basics:
 1. Differentiation and Integration *
@@ -12,23 +11,40 @@ Basics:
 5. Linear Algebra *
 6. Ordinary Differential Equations *
 
-Intermediate:
-1. Probability Theory *
-2. Mathematical Statistics *
-3. Elementary Number Theory *
-4. Abstract Linear Algebra *
-5. Abstract Algebra *
-6. Principles of Real Analysis *
-7. Complex Variables *
-8. Partial Differential Equations *
-9. Point-Set Topology *
-11. Differential Geometry of Curves and Surfaces *
 
-More Advanced:
-1. Real Analysis *
-2. Algebra *
+Anaysis/PDE:
+  Undergraduate:
+    - Probability Theory
+    - Principles of Real Analysis
+    - Complex Variables
+    - Partial Differential Equations
+  Graduate:
+    - Real Analysis and Topology *
+    - Complex Analysis *
+    - Functional Analysis *
+    - Partial Differential Equations *
+    - Probability Theory *
 
 
+Algebra/Number Theory:
+  Undergraduate:
+    - Elementary Number Theory *
+    - Advanced Linear Algebra *
+    - Abstract Algebra *
+  Graduate:
+    - Algebra *
+    - Commutative Algebra *
+    - Algebraic Geometry *
+
+
+Algebra/Number Theory:
+  Undergraduate:
+    - Point-Set Topology *
+    - Differential Geometry of Curves and Surfaces *
+  Graduate:
+    - Algebraic Topology *
+    - Smooth Manifolds *
+    - Reimmanian Geometry *
 
 
 
