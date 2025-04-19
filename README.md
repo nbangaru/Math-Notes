@@ -12,7 +12,7 @@ Basics:
 6. Ordinary Differential Equations *
 
 
-Analysis/PDE:
+Analysis:
     Undergraduate:
         - Probability Theory *
         - Principles of Real Analysis *
@@ -26,7 +26,7 @@ Analysis/PDE:
         - Probability Theory *
     
 
-Algebra/Number Thoery:
+Algebra:
     Undergraduate:
         - Elementary Number Theory *
         - Advanced Linear Algebra *
@@ -34,7 +34,7 @@ Algebra/Number Thoery:
     Graduate:
         - Algebra *
         - Algebraic Geometry *
-        - Algebraic Number Theory *
+        - Representation Theory *
 
 
 Algebra/Number Thoery:
