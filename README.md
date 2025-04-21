@@ -11,42 +11,21 @@ Basics:
 5. Linear Algebra *
 6. Ordinary Differential Equations *
 
+Intermediate:
+1. Probability Theory *
+2. Elementary Number Theory *
+3. Abstract Linear Algebra *
+4. Abstract Algebra *
+5. Principles of Real Analysis *
+6. Complex Variables *
+7. Partial Differential Equations *
+8. Point-Set Topology *
+9. Differential Geometry *
 
-Analysis:
-    Undergraduate:
-        - Probability Theory *
-        - Principles of Real Analysis *
-        - Complex Variables *
-        - Partial Differential Equations *
-    Graduate:
-        - Real Analysis *
-        - Complex Analysis *
-        - Functional Analysis *
-        - Partial Differential Equations *
-        - Probability Theory *
-    
+Advanced:
+1. Real Analysis *
+2. Algebra *
 
-Algebra:
-    Undergraduate:
-        - Elementary Number Theory *
-        - Abstract Linear Algebra *
-        - Abstract Algebra * 
-    Graduate:
-        - Algebra *
-        - Algebraic Geometry *
-        - Representation Theory *
-
-
-Algebra/Number Thoery:
-    Undergraduate:
-        - Point-Set Topology *
-        - Differential Geometry of Curves and Surfaces *
-    Graduate:
-        - Algebraic Topology *
-        - Differential Topology *
-        - Differential Geometry *
-
-    
 
 
 
