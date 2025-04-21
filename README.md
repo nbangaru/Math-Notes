@@ -29,7 +29,7 @@ Analysis:
 Algebra:
     Undergraduate:
         - Elementary Number Theory *
-        - Advanced Linear Algebra *
+        - Abstract Linear Algebra *
         - Abstract Algebra * 
     Graduate:
         - Algebra *
