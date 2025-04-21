@@ -3,7 +3,7 @@
 * - Indicates Incomplete
 
 
-Basics:
+Foundations:
 1. Differentiation and Integration *
 2. Sequences, Series, and Polar Coordinates *
 3. Multivariable Calculus *
@@ -11,7 +11,7 @@ Basics:
 5. Linear Algebra *
 6. Ordinary Differential Equations *
 
-Intermediate:
+Basics:
 1. Probability Theory *
 2. Elementary Number Theory *
 3. Abstract Linear Algebra *
@@ -22,7 +22,7 @@ Intermediate:
 8. Point-Set Topology *
 9. Differential Geometry *
 
-Advanced:
+Intermediate:
 1. Real Analysis *
 2. Algebra *
 
