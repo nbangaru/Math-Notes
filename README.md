@@ -3,7 +3,7 @@
 * - Indicates Incomplete
 
 
-Foundations:
+Basics:
 1. Differentiation and Integration *
 2. Sequences, Series, and Polar Coordinates *
 3. Multivariable Calculus *
@@ -11,7 +11,16 @@ Foundations:
 5. Linear Algebra *
 6. Ordinary Differential Equations *
 
-Basics:
+Analysis:
+Undergraduate:
+  1. 
+  2. 
+  3. 
+  
+       
+
+    
+  .   
 1. Probability Theory *
 2. Elementary Number Theory *
 3. Abstract Linear Algebra *
