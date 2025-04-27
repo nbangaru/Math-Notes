@@ -9,7 +9,7 @@ Basics:
 3. Multivariable Calculus *
 4. Vector Calculus *
 5. Linear Algebra *
-6. Ordinary Differential Equations *
+6. Differential Equations *
 7. Discrete Math *
 
 Undergraduate:
@@ -19,6 +19,7 @@ Undergraduate:
 5. Abstract Algebra *
 6. Principles of Real Analysis *
 7. Complex Variables *
+8. Ordinary Differential Equations *
 9. Partial Differential Equations *
 10. Topology *
 12. Differential Geometry *
