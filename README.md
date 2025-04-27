@@ -17,7 +17,7 @@ Foundations:
 4. Abstract Linear Algebra *
 5. Abstract Algebra *
 6. Principles of Real Analysis *
-7. Complex Varibales *
+7. Complex Variables *
 9. Partial Differential Equations *
 10. Point-Set Topology *
 12. Differential Geometry of Curves and Surfaces *
