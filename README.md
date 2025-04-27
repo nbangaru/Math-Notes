@@ -24,8 +24,8 @@ Basics:
 10. Differential Geometry of Curves and Surfaces *
 
 Intermediate:
-1. Analysis
-2. Algebra
+1. Analysis *
+2. Algebra *
 
        
 
