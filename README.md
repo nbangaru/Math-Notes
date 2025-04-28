@@ -18,10 +18,9 @@ Undergraduate:
 5. Abstract Algebra *
 6. Principles of Real Analysis *
 7. Complex Variables *
-8. Ordinary Differential Equations *
 9. Partial Differential Equations *
-10. Topology *
-12. Differential Geometry *
+10. Point-Set Topology *
+12. Differential Geometry of Curves and Surfaces *
 
 
 
