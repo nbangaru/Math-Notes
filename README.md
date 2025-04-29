@@ -15,7 +15,7 @@ Preliminaries:
 Basics:
 1. Probability Theory *
 3. Elementary Number Theory *
-4. Abstract Linear Algebra *
+4. Advanced Linear Algebra *
 5. Abstract Algebra *
 6. Principles of Real Analysis *
 7. Complex Variables *
