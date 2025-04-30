@@ -18,16 +18,13 @@ Basics:
 4. Advanced Linear Algebra *
 5. Abstract Algebra *
 6. Principles of Real Analysis *
-7. Complex Variables *
+7. Basic Complex Analysis *
+8. Advanced Ordinary Differential Equations *
 9. Partial Differential Equations *
 10. Topology *
 12. Differential Geometry *
 
-Intermediate:
-1. Topology and Measure Theory *
-2. Algebra *
-3. Functional Analysis *
-4. Complex Analysis *
+
 
 
 
