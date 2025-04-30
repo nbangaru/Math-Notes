@@ -3,7 +3,7 @@
 * - Indicates Incomplete
 
 
-Preliminaries:
+Basics:
 1. Differentiation and Integration *
 2. Sequences, Series, and Polar Coordinates *
 3. Multivariable Calculus *
@@ -12,7 +12,7 @@ Preliminaries:
 6. Ordinary Differential Equations *
 7. Discrete Math *
 
-Basics:
+Undergraduate Level:
 1. Probability Theory *
 3. Elementary Number Theory *
 4. Abstract Linear Algebra *
@@ -23,14 +23,13 @@ Basics:
 10. Point-Set Topology *
 12. Differential Geometry of Curves and Surfaces *
 
-
-Intermediate: 
-1. Topology and Analysis
-2. Functional Analysis
-3. Complex Analysis
-4. Algebra I
-5. Algebra II
-6. Commutative Algebra
+Beginner Graduate Level: 
+1. Topology and Analysis *
+2. Functional Analysis *
+3. Complex Analysis *
+5. Algebra I *
+6. Algebra II * 
+7. Commutative Algebra *
 
 
 
