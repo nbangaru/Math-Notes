@@ -15,14 +15,13 @@ Preliminaries:
 Basics:
 1. Probability Theory *
 3. Elementary Number Theory *
-4. Advanced Linear Algebra *
+4. Abstract Linear Algebra *
 5. Abstract Algebra *
 6. Principles of Real Analysis *
-7. Basic Complex Analysis *
-8. Advanced Ordinary Differential Equations *
+7. Complex Variables *
 9. Partial Differential Equations *
-10. Topology *
-12. Differential Geometry *
+10. Point-Set Topology *
+12. Differential Geometry of Curves and Surfaces *
 
 
 
