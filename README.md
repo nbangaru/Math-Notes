@@ -25,8 +25,10 @@ Basics:
 12. Differential Geometry of Curves and Surfaces *
 
 Intermediate:
-1. Topology and Analysis
-2. Algebra
+1. Topology and Measure Theory *
+2. Algebra *
+3. Functional Analysis *
+4. Complex Analysis *
 
 
 
