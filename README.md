@@ -14,6 +14,7 @@ Basics:
 
 Undergraduate Level:
 1. Probability Theory *
+2. Mathematical Statistics *
 3. Elementary Number Theory *
 4. Abstract Linear Algebra *
 5. Abstract Algebra *
