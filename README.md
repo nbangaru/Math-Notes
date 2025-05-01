@@ -25,11 +25,10 @@ Undergraduate Level:
 12. Differential Geometry of Curves and Surfaces *
 
 Beginner Graduate Level: 
-1. Topology and Analysis *
-2. Functional Analysis *
+1. Topology and Measure Theory *
+2. Algebra 
 3. Complex Analysis *
-5. Algebra I *
-6. Algebra II * 
+4. Functional Analysis *
 7. Commutative Algebra *
 
 
