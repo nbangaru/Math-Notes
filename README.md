@@ -26,7 +26,7 @@ Undergraduate Level:
 
 Beginner Graduate Level: 
 1. Topology and Measure Theory *
-2. Algebra 
+2. Algebra *
 3. Complex Analysis *
 4. Functional Analysis *
 7. Commutative Algebra *
