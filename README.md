@@ -12,24 +12,39 @@ Basics:
 6. Ordinary Differential Equations *
 7. Discrete Math *
 
-Undergraduate Level:
+Undergraduate Analysis:
 1. Probability Theory *
-2. Mathematical Statistics *
-3. Elementary Number Theory *
-4. Abstract Linear Algebra *
-5. Abstract Algebra *
-6. Principles of Real Analysis *
-7. Complex Variables *
-9. Partial Differential Equations *
-10. Point-Set Topology *
-12. Differential Geometry of Curves and Surfaces *
+2. Principles of Real Analysis *
+3. Complex Variables *
+4. Partial Differential Equations *
 
-Beginner Graduate Level: 
-1. Topology and Measure Theory *
-2. Algebra *
-3. Complex Analysis *
-4. Functional Analysis *
-7. Commutative Algebra *
+Graduate Analysis:
+1. Topology and Real Analysis *
+2. Complex Analysis *
+3. Functional Analysis *
+
+Undergraduate Algebra:
+1. Elementary Number Theory *
+2. Abstract Linear Algebra *
+3. Abstract Algebra *
+
+Graduate Algebra:
+1. Algebra *
+2. Commutative Algebra *
+3. Algebraic Geometry *
+
+Undergraduate Topology/Geometry:
+1. Point-Set Topology *
+2. Differential Geometry of Curves and Surfaces *
+
+Graduate Topology/Geometry:
+1.  Algebraic Geometry *
+2.  Differential Topology *
+3.  Differential Geometry *
+
+   
+
+
 
 
 
