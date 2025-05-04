@@ -10,37 +10,34 @@ Basics:
 4. Vector Calculus *
 5. Linear Algebra *
 6. Ordinary Differential Equations *
-7. Discrete Math *
 
-Undergraduate Analysis:
+Undergraduate:
 1. Probability Theory *
-2. Principles of Real Analysis *
-3. Complex Variables *
-4. Partial Differential Equations *
-
-Graduate Analysis:
-1. Topology and Real Analysis *
-2. Complex Analysis *
-3. Functional Analysis *
-
-Undergraduate Algebra:
 1. Elementary Number Theory *
 2. Abstract Linear Algebra *
 3. Abstract Algebra *
-
-Graduate Algebra:
-1. Algebra *
-2. Commutative Algebra *
-3. Algebraic Geometry *
-
-Undergraduate Topology/Geometry:
+3. Principles of Real Analysis *
+4. Complex Variables *
+5. Partial Differential Equations *
 1. Point-Set Topology *
 2. Differential Geometry of Curves and Surfaces *
 
-Graduate Topology/Geometry:
-1.  Algebraic Geometry *
-2.  Differential Topology *
-3.  Differential Geometry *
+
+Graduate:
+1. Analysis I (Set Theory and Topology)
+2. Analysis II (Measure Theory)
+3. Analysis III (Functional Analysis)
+4. Analysis IV (Complex Analysis)
+5. Algebra I (Groups, Rings, and Modules)
+6. Algebra II (Linear and Multilinear Algebra)
+7. Algebra III (Feilds and Galois Theory)
+8. Algebra IV (Commutative Algebra)
+9. Topology/Geometry I (Algebraic Topology)
+10. Topology/Geometry II (Differential Topology)
+11. Topology/Geometry III (Differential Geometry)
+   
+
+
 
    
 
