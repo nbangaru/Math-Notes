@@ -22,8 +22,7 @@ Undergraduate:
 1. Point-Set Topology *
 2. Differential Geometry of Curves and Surfaces *
 
-
-Graduate:
+Basic Graduate:
 1. Analysis I (Set Theory and Topology)
 2. Analysis II (Measure Theory)
 3. Analysis III (Functional Analysis)
