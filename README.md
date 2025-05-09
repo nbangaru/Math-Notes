@@ -23,17 +23,14 @@ Undergraduate:
 2. Differential Geometry of Curves and Surfaces *
 
 Basic Graduate:
-1. Analysis I (Set Theory and Topology)
-2. Analysis II (Measure Theory)
-3. Analysis III (Functional Analysis)
-4. Analysis IV (Complex Analysis)
-5. Algebra I (Groups, Rings, and Modules)
-6. Algebra II (Linear and Multilinear Algebra)
-7. Algebra III (Feilds and Galois Theory)
-8. Algebra IV (Commutative Algebra)
-9. Topology/Geometry I (Algebraic Topology)
-10. Topology/Geometry II (Differential Topology)
-11. Topology/Geometry III (Differential Geometry)
+1. Analysis I (Set Theory and Topology) *
+2. Analysis II (Measure Theory) *
+3. Analysis III (Functional Analysis) *
+4. Analysis IV (Complex Analysis) *
+5. Algebra I (Groups, Rings, and Modules) *
+6. Algebra II (Linear and Multilinear Algebra) *
+7. Algebra III (Feilds and Galois Theory) *
+8. Algebra IV (Commutative Algebra) *
    
 
 
