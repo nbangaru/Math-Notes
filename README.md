@@ -32,6 +32,8 @@ Graduate:
 6. Algebra 2 (Linear and Multilinear Algebra)
 7. Algebra 3 (Fields and Galois Theory)
 8. Algebra 4 (Commutative Algebra)
+9. Topology/Geometry I (Algebraic Topology)
+10. Topology/Geometry II (Smooth Manifolds)
 
 
 
