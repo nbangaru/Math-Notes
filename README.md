@@ -15,15 +15,15 @@ Basics:
 Undergraduate:
 1. Probability Theory *
 2. Elementary Number Theory *
-3. Advanced Linear Algebra *
-4. Abstract Algebra I *
-5. Abstract Algebra II *
-6. Real Analysis I *
-7. Real Analysis II *
-8. Basic Complex Analysis *
+3. Abstract Linear Algebra *
+4. Abstract Algebra 
+6. Principles of Real Analysis 
+8. Complex Variables *
 9. Partial Differential Equations *
-10. Topology *
-11. Differential Geometry *
+10. Point-Set Topology *
+11. Differential Geometry of Curves and Surfaces *
+
+    
 
 
 
