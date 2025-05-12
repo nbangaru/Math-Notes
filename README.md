@@ -23,6 +23,17 @@ Undergraduate:
 10. Point-Set Topology *
 11. Differential Geometry of Curves and Surfaces *
 
+
+Graduate:
+1. Analysis I (Topology and Measure Theory) *
+2. Analysis II (Complex Analysis) *
+3. Analysis III (Functional Analysis) *
+4. Analysis IV (Partial Differential Equations)
+5. Algebra I (Groups, Rings, and Modules) *
+6. Algebra II (Linear and Multilinear Algebra) *
+7. Algebra III (Fields and Galois Theory) *
+8. Algebra IV (Commutative Algebra) *
+
     
 
 
