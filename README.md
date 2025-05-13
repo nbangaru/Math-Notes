@@ -32,7 +32,7 @@ Graduate:
 5. Algebra I (Groups, Rings, and Modules) *
 6. Algebra II (Linear and Multilinear Algebra) *
 7. Algebra III (Fields and Galois Theory) *
-8. Algebra IV (Commutative Algebra) *
+8. Algebra IV (Representation Theory + Commutative and Homological  Algebra) *
 
     
 
