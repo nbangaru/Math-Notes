@@ -36,7 +36,7 @@ Beginner Graduate:
 4. Algebra I (Groups, Rings, and Modules) *
 5. Algebra II (Linear Algebra + Fields and Galois Theory) *
 6. Algebra III (Representation Theory + Commutative and Homological Algebra) *
-7. Topoogy I (Algebraic Topology) *
+7. Topology I (Algebraic Topology) *
 8. Topology II (Differential Topology) *
 9. Topology III (Differential Geometry) *
 
