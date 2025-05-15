@@ -30,7 +30,7 @@ Undergraduate:
 
 
 Beginner Graduate:
-1. Analysis I (Metric Spaces and Measure Theory) *
+1. Analysis I (Topology and Measure Theory) *
 2. Analysis II (Functional Analysis and PDE) *
 3. Analysis III (Complex Analysis) * 
 4. Algebra I (Groups, Rings, and Modules) *
