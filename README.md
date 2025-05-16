@@ -12,7 +12,6 @@ Basics:
 5. Linear Algebra *
 6. Ordinary Differential Equations *
 7. Boundary Value Problems and Fourier Series *
-8. Discrete Math *
 
 Undergraduate:
 1. Probability Theory *
