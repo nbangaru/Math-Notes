@@ -15,7 +15,7 @@ Basics:
 8. Probability Theory *
 9. Mathematical Statistics *
 
-Undergraduate:
+Ad:
 1. Elementary Number Theory *
 2. Algebra I *
 3. Algebra II *
