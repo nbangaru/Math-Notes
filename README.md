@@ -12,34 +12,22 @@ Basics:
 5. Linear Algebra *
 6. Ordinary Differential Equations *
 7. Boundary Value Problems and Fourier Series *
+8. Probability Theory *
+9. Mathematical Statistics *
 
 Undergraduate:
-1. Probability Theory *
-2. Mathematical Statistics *
-3. Elementary Number Theory *
-4. Abstract Linear Algebra *
-5. Abstract Algebra *
-7. Principles of Real Analysis *
-9. Complex Variables *
-10. Advanced Ordinary Differential Equations *
-11. Partial Differential Equations *
-12. Point-Set Topology *
-13. Differential Forms and Applications *
-14. Differential Geometry of Curves and Surfaces *
-
-
-Beginner Graduate:
-1. Analysis I (Topology and Measure Theory) *
-2. Analysis II (Functional Analysis and PDE) *
-3. Analysis III (Complex Analysis) * 
-4. Algebra I (Groups, Rings, and Modules) *
-5. Algebra II (Linear Algebra + Fields and Galois Theory) *
-6. Algebra III (Representation Theory + Commutative and Homological Algebra) *
-7. Topology I (Algebraic Topology) *
-8. Topology II (Differential Topology) *
-9. Topology III (Differential Geometry) *
-
-
+1. Elementary Number Theory *
+2. Algebra I *
+3. Algebra II *
+4. Algebra III *
+5. Real Analysis I *
+6. Real Analysis II *
+7. Real Analysis III *
+8. Complex Variables *
+9. Advanced Ordinary Differential Equations *
+10. Partial Differential Equations *
+11. Topology *
+12. Differential Geometry *
 
 
 
