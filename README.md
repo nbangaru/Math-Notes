@@ -17,17 +17,16 @@ Basics:
 
 Undergraduate:
 1. Elementary Number Theory *
-2. Algebra I *
-3. Algebra II *
-4. Algebra III *
+2. Advanced Linear Algebra *
+3. Algebra I *
+4. Algebra II *
 5. Real Analysis I *
 6. Real Analysis II *
-7. Real Analysis III *
-8. Complex Variables *
-9. Advanced Ordinary Differential Equations *
-10. Partial Differential Equations *
-11. Topology *
-12. Differential Geometry *
+7. Complex Variables *
+8. Advanced Ordinary Differential Equations *
+9. Partial Differential Equations *
+10. Topology *
+11. Differential Geometry *
 
 
 
