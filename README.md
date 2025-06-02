@@ -20,13 +20,15 @@ Undergraduate:
 2. Advanced Linear Algebra *
 3. Algebra I *
 4. Algebra II *
-5. Real Analysis I *
-6. Real Analysis II *
-7. Complex Variables *
-8. Advanced Ordinary Differential Equations *
-9. Partial Differential Equations *
-10. Topology *
-11. Differential Geometry *
+5. Algebra III *
+6. Real Analysis I *
+7. Real Analysis II *
+8. Real Analysis III *
+9. Complex Variables *
+10. Advanced Ordinary Differential Equations *
+11. Partial Differential Equations *
+12. Topology *
+13. Differential Geometry *
 
 
 
