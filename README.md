@@ -11,24 +11,16 @@ Basics:
 4. Vector Calculus *
 5. Linear Algebra *
 6. Ordinary Differential Equations *
-7. Boundary Value Problems and Fourier Series *
 8. Probability Theory *
 9. Mathematical Statistics *
-
-Undergraduate:
 1. Elementary Number Theory *
-2. Advanced Linear Algebra *
-3. Algebra I *
-4. Algebra II *
-5. Algebra III *
-6. Real Analysis I *
-7. Real Analysis II *
-8. Real Analysis III *
+2. Abstract Linear Algebra *
+3. Abstract Algebra *
+6. Principles of Real Analysis *
 9. Complex Variables *
-10. Advanced Ordinary Differential Equations *
-11. Partial Differential Equations *
-12. Topology *
-13. Differential Geometry *
+10. Partial Differential Equations *
+11. Point-Set Topology *
+12. Differential Geometry of Curves and Surfaces *
 
 
 
