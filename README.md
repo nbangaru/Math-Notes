@@ -25,9 +25,10 @@ Undergraduate:
 8. Real Analysis II *
 9. Real Analysis III *
 11. Complex Variables *
-12. Partial Differential Equations *
-13. Topology *
-14. Differential Geometry *
+12. Advanced Ordinary Differential Equations *
+13. Partial Differential Equations *
+14. Topology *
+15. Differential Geometry *
 
 
 
