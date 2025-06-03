@@ -11,6 +11,7 @@ Basics:
 5. Vector Calculus *
 6. Linear Algebra *
 7. Ordinary Differential Equations *
+8. Boundary Value Problems and Fourier Series *
 9. Probability Theory *
 10. Mathematical Statistics *
     
