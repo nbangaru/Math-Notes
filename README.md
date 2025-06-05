@@ -15,7 +15,7 @@ Basics:
 9. Probability Theory *
 10. Mathematical Statistics *
     
-Undergraduate:
+Intermediate:
 1. Elementary Number Theory *
 3. Advanced Linear Algebra  *
 4. Abstract Algebra I *
