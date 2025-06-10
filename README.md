@@ -18,8 +18,8 @@ Basics:
 Intermediate:
 1. Elementary Number Theory *
 3. Abstract Linear Algebra  *
-4. Abstract Algebra 
-7. Principles of Real Analysis 
+4. Abstract Algebra *
+7. Principles of Real Analysis *
 10. Complex Variables *
 11. Advanced Ordinary Differential Equations *
 13. Partial Differential Equations *
