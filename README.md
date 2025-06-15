@@ -13,6 +13,8 @@ Basics:
 7. Ordinary Differential Equations *
 9. Probability Theory *
 10. Mathematical Statistics *
+
+Intermediate:
 1. Elementary Number Theory *
 2. Abstract Linear Algebra  *
 3. Abstract Algebra *
@@ -21,7 +23,6 @@ Basics:
 11. Partial Differential Equations *
 12. Point-Set Topology *
 14. Differential Geometry of Curves and Surfaces *
-
 
 Advanced:
 1. Analysis I (Metric Spaces and Measure Theory)
