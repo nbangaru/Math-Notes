@@ -24,16 +24,13 @@ Intermediate:
 12. Point-Set Topology *
 14. Differential Geometry of Curves and Surfaces *
 
-Advanced:
+More Advanced:
 1. Analysis I (Metric Spaces and Measure Theory)
 2. Analysis II (Functional Analysis and PDE)
 3. Analysis III (Complex Analysis)
 4. Algebra I (Groups, Rings, and Fields)
 5. Algebra II (Modules and Galois Theory)
 6. Algebra III (Vector Spaces)
-7. Algebra III (Representation Theory + Commutative and Homological Algebra)
-8. Geometry and Topology I (Algebraic Topology)
-9. Geometry and Topology II (Smooth Manifolds)
 
 
 
