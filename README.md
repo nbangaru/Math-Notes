@@ -1,5 +1,6 @@
 # Math-Notes
 
+Math notes in the fields of Analysis, Algebra, and Topology from school and self-study
 
 * - Indicates Incomplete
 
@@ -28,7 +29,15 @@ Intermediate:
 
 
 Advanced:
-
+1. Measure Theory *
+2. Functional Analysis *
+3. Complex Analysis *
+6. Algebra I *
+9. Algebra II *
+10. Algebra III *
+11. Algebraic Topology *
+12. Smooth Manifolds *
+14. Reimannian Geometry *
 
 
 
