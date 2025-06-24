@@ -25,7 +25,7 @@ Intermediate:
 10. Advanced Ordinary Differential Equations *
 11. Partial Differential Equations *
 12. Topology *
-14. Differential Geometry of Curves and Surfaces *
+14. Differential Geometry *
 
 
 
