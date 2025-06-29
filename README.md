@@ -16,8 +16,8 @@ Basic:
 
 
 Intermediate:
-9. Probability Theory *
-10. Mathematical Statistics *
+1. Probability Theory *
+2. Mathematical Statistics *
 1. Elementary Number Theory *
 2. Abstract Linear Algebra  *
 3. Abstract Algebra *
