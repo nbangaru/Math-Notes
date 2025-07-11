@@ -5,7 +5,7 @@ Undergraduate Math notes in the fields of Analysis, Algebra, and Topology
 * - Indicates Incomplete
 
 
-Basic:
+Basics:
 1. Differentiation and Integration *
 2. Sequences, Series, and Polar Coordinates *
 3. Multivariable Calculus *
