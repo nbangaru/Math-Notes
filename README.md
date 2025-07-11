@@ -1,6 +1,6 @@
 # Math-Notes
 
-Math notes in the fields of Analysis, Algebra, and Topology 
+Undergraduate Math notes in the fields of Analysis, Algebra, and Topology 
 
 * - Indicates Incomplete
 
