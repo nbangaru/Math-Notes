@@ -13,24 +13,20 @@ Basics:
 6. Linear Algebra *
 7. Ordinary Differential Equations *
 8. Boundary Value Problems and Fourier Series *
-9. Probability Theory *
-2. Mathematical Statistics *
 
 
 Intermediate:
+9. Probability Theory *
+2. Mathematical Statistics *
 1. Elementary Number Theory *
-3. Advanced Linear Algebra  *
-2. Abstract Algebra I *
-3. Abstract Algebra II *
-4. Abstract Algebra III *
-6. Real Analysis I *
-7. Real Analysis II *
-8. Real Analysis III *
-9. Basic Complex Analysis *
+3. Abstract Linear Algebra  *
+2. Abstract Algebra *
+6. Principles of Real Analysis *
+9. Complex Variables  
 10. Advanced Ordinary Differential Equations *
 11. Partial Differential Equations *
-12. Topology *
-14. Differential Geometry *
+12. Point-Set Topology *
+14. Differential Geometry of Curves and Surfaces *
 
 
 
