@@ -27,17 +27,15 @@ Intermediate:
 14. Differential Geometry of Curves and Surfaces *
 
 Advanced:
-1. Analysis I (Set Theory and Topology) *
-2. Analysis II (Measure Theory) *
-3. Analysis III (Functional Analysis) *
-4. Analysis IV (Complex Analysis) *
-5. Algebra I (Groups, Rings, and Vector Spaces) *
-6. Algebra II (Modules and Galois Theory) *
-7. Algebra III (Commutative Algebra) *
-8. Algebra IV (Representation Theory)
-9. Topology/Geometry I (Algebraic Topology) *
-10. Topology/Geometry II (Smooth Manifolds) *
-11. Topology/Geometry III (Reimannian Geometry) *
+1. Analysis I  
+2. Analysis II 
+3. Analysis III 
+5. Algebra I 
+6. Algebra II 
+7. Algebra III 
+9. Topology/Geometry I 
+10. Topology/Geometry II 
+11. Topology/Geometry III 
 
 
 
