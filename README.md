@@ -14,7 +14,6 @@ Basics:
 7. Ordinary Differential Equations *
 8. Boundary Value Problems and Fourier Series *
 
-
 Intermediate:
 1. Probability Theory *
 2. Mathematical Statistics *
@@ -27,19 +26,18 @@ Intermediate:
 11. Partial Differential Equations *
 14. Differential Geometry of Curves and Surfaces *
 
-
 Advanced:
-1. Analysis I (Set Theory and Topology)
-2. Analysis II (Measure Theory)
-3. Analysis III (Functional Analysis)
-4. Analysis IV (Complex Analysis)
-5. Algebra I (Groups, Rings, and Vector Spaces)
-6. Algebra II (Modules and Galois Theory)
-7. Algebra III (Commutative Algebra)
+1. Analysis I (Set Theory and Topology) *
+2. Analysis II (Measure Theory) *
+3. Analysis III (Functional Analysis) *
+4. Analysis IV (Complex Analysis) *
+5. Algebra I (Groups, Rings, and Vector Spaces) *
+6. Algebra II (Modules and Galois Theory) *
+7. Algebra III (Commutative Algebra) *
 8. Algebra IV (Representation Theory)
-9. Topology/Geometry I (Algebraic Topology)
-10. Topology/Geometry II (Smooth Manifolds)
-11. Topology/Geometry III (Reimannian Geometry)
+9. Topology/Geometry I (Algebraic Topology) *
+10. Topology/Geometry II (Smooth Manifolds) *
+11. Topology/Geometry III (Reimannian Geometry) *
 
 
 
