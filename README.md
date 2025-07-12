@@ -1,6 +1,6 @@
 # Math-Notes
 
-Undergraduate Math notes in the fields of Analysis, Algebra, and Topology 
+ Math notes in the fields of Analysis, Algebra, and Topology 
 
 * - Indicates Incomplete
 
@@ -16,17 +16,30 @@ Basics:
 
 
 Intermediate:
-9. Probability Theory *
+1. Probability Theory *
 2. Mathematical Statistics *
 1. Elementary Number Theory *
 3. Abstract Linear Algebra  *
 2. Abstract Algebra *
 6. Principles of Real Analysis *
-9. Complex Variables  
+9. Complex Variables * 
 10. Advanced Ordinary Differential Equations *
 11. Partial Differential Equations *
-12. Point-Set Topology *
 14. Differential Geometry of Curves and Surfaces *
+
+
+Advanced:
+1. Analysis I (Set Theory and Topology)
+2. Analysis II (Measure Theory)
+3. Analysis III (Functional Analysis)
+4. Analysis IV (Complex Analysis)
+5. Algebra I (Groups, Rings, and Vector Spaces)
+6. Algebra II (Modules and Galois Theory)
+7. Algebra III (Commutative Algebra)
+8. Algebra IV (Representation Theory)
+9. Topology/Geometry I (Algebraic Topology)
+10. Topology/Geometry II (Smooth Manifolds)
+11. Topology/Geometry III (Reimannian Geometry)
 
 
 
