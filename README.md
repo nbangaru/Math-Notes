@@ -12,14 +12,15 @@ Basics:
 5. Vector Calculus *
 6. Linear Algebra *
 7. Ordinary Differential Equations *
+8. Boundary Value Problems and Fourier Series *
 9. Probability Theory *
 2. Mathematical Statistics *
 
 Intermediate:
-1. Elementary Number Theory *
+1. Principles of Real Analysis *
 3. Advanced Linear Algebra *
-4. Abstract Algebra *
-7. Principles of Real Analysis *
+4. Elementary Number Theory *
+7. Abstract Algebra *
 10. Basic Complex Analysis * 
 11. Advanced Ordinary Differential Equations *
 12. Partial Differential Equations *
