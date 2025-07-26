@@ -21,7 +21,7 @@ Intermediate:
 3. Advanced Linear Algebra *
 4. Elementary Number Theory *
 7. Abstract Algebra *
-10. Basic Complex Analysis * 
+10. Complex Variables * 
 11. Advanced Ordinary Differential Equations *
 12. Partial Differential Equations *
 13. Topology *
