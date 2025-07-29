@@ -13,10 +13,12 @@ Basics:
 6. Linear Algebra *
 7. Ordinary Differential Equations I *
 8. Partial Differential Equations I *
-9. Probability Theory *
+
+Intermediate:
+10. Probability Theory *
 2. Mathematical Statistics *
 3. Elementary Number Theory *
-3. Abstract Linear Algebra *
+3. Linear Algebra II *
 5. Abstract Algebra *
 6. Principles of Real Analysis *
 10. Complex Variables * 
