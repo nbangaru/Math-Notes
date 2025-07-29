@@ -15,7 +15,7 @@ Basics:
 8. Partial Differential Equations I *
 
 Intermediate:
-10. Probability Theory *
+1. Probability Theory *
 2. Mathematical Statistics *
 3. Elementary Number Theory *
 3. Linear Algebra II *
