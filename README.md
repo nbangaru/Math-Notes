@@ -7,9 +7,9 @@
 
 Basics:
 1. Differentiation and Integration *
-2. Sequences, Series, and Polar Coordinates *
-3. Multivariable Calculus *
-5. Vector Calculus *
+2. Calculus I *
+3. Calculus IV *
+5. Calculus V *
 6. Linear Algebra *
 7. Ordinary Differential Equations I *
 8. Partial Differential Equations I *
