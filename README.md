@@ -6,11 +6,12 @@
 
 
 Basics:
-1. Differentiation and Integration *
-2. Calculus I *
-3. Calculus IV *
+1. Calculus I *
+2. Calculus II *
+3. Calculus III *
+4. Calculus IV *
 5. Calculus V *
-6. Linear Algebra *
+6. Linear Algebra I *
 7. Ordinary Differential Equations I *
 8. Partial Differential Equations I *
 
@@ -25,6 +26,8 @@ Intermediate:
 11. Ordinary Differential Equations II *
 12. Partial Differential Equations II *
 14. Differential Geometry of Curves and Surfaces *
+
+
 
 
 
