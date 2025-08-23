@@ -1,6 +1,6 @@
 # Math-Notes
 
- Math notes in the fields of Analysis, Algebra, and Topology 
+ Math notes in the fields of Analysis, Algebra, and Geometry/Topology at the Undergraduate Level
 
 * - Indicates Incomplete
 
@@ -18,7 +18,7 @@ Basics:
 2. Mathematical Statistics *
 
 Intermediate:
-3. Elementary Number Theory *
+1. Elementary Number Theory *
 3. Advanced Linear Algebra *
 5. Abstract Algebra I *
 5. Abstract Algebra II *
