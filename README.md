@@ -1,6 +1,6 @@
 # Math-Notes
 
- Math notes in the fields of Analysis, Algebra, and Geometry/Topology at the Undergraduate Level
+ Math notes in the fields of Analysis, Algebra, and Geometry/Topology from School and Self-Study
 
 * - Indicates Incomplete
 
@@ -11,26 +11,21 @@ Basics:
 3. Calculus III *
 4. Calculus IV *
 5. Calculus V *
-6. Linear Algebra  *
-7. Ordinary Differential Equations  *
-8. Boundary Value Problems  *
+6. Linear Algebra I *
+7. Ordinary Differential Equations I *
+8. Partial Differential Equations I  *
 9. Probability Theory *
 2. Mathematical Statistics *
 
 Intermediate:
 1. Elementary Number Theory *
-3. Advanced Linear Algebra *
-5. Abstract Algebra I *
-5. Abstract Algebra II *
-5. Abstract Algebra III *
-6. Real Analysis I *
-6. Real Analysis II *
-6. Real Analysis III *
+3. Linear Algebra II *
+5. Abstract Algebra *
+6. Principles of Real Analysis *
 10. Complex Variables * 
-11. Advanced Ordinary Differential Equations *
-12. Partial Differential Equations *
-13. Topology *
-14. Differential Geometry *
+11. Ordinary Differential Equations II *
+12. Partial Differential Equations II *
+14. Differential Geometry of Curves and Surfaces *
 
 
 
