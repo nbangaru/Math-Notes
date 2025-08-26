@@ -1,6 +1,6 @@
 # Math-Notes
 
- Math notes in the fields of Analysis, Algebra, and Geometry/Topology from School and Self-Study
+ Undergraduate and beginner Graduate level math notes from School and Self-Study
 
 * - Indicates Incomplete
 
@@ -37,7 +37,7 @@ Advanced:
 8. Commutative Algerba and Representation Theory
 9. Algebraic Topology
 10. Differential Topology
-11. Differential Geomtery
+11. Differential Geometry
 
 
 
