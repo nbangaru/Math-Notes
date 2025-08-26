@@ -26,6 +26,20 @@ Basics:
 14. Differential Geometry of Curves and Surfaces *
 
 
+Advanced:
+1. Set Theory, Logic, and Discrete Math
+2. Metric Spaces and Topology
+3. Real Analysis
+4. Functional Analysis
+5. Complex Analysis
+6. Groups and Rings
+7. Modules, Vector Spaces, and Fields
+8. Commutative Algerba and Representation Theory
+9. Algebraic Topology
+10. Differential Topology
+11. Differential Geomtery
+
+
 
 
 
