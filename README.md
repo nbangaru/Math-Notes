@@ -29,12 +29,12 @@ Basics:
 Advanced:
 1. Set Theory, Logic, and Discrete Math
 2. Metric Spaces and Topology
-3. Real Analysis
-4. Functional Analysis
+3. Real Analysis and Probability
+4. Functional Analysis and PDE
 5. Complex Analysis
-6. Groups and Rings
-7. Modules, Vector Spaces, and Fields
-8. Commutative Algerba and Representation Theory
+6. Groups and Rings and Modules
+7. Vector Spaces, Fields, and Galois Theory
+8. Commutative Algebra and Representation Theory
 9. Algebraic Topology
 10. Differential Topology
 11. Differential Geometry
