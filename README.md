@@ -1,6 +1,6 @@
 # Math-Notes
 
- Undergraduate and beginner Graduate level math notes in analysis, algebra, geometry, and topology from School and Self-Study
+ Undergraduate and Graduate level math notes in analysis, algebra, geometry, and topology from School and Self-Study
 
 * - Indicates Incomplete
 
@@ -26,17 +26,19 @@ Basics:
 
 
 Advanced:
-1. Analysis I
-2. Analysis II
-3. Analysis III
-4. Analysis IV
-5. Algebra I
-6. Algebra II
-6. Algebra III
-6. Algebra IV
-5. Topology/Geometry I
-6. Topology/Geometry II
-6. Topology/Geometry III
+1. Analysis I *
+2. Analysis II *
+3. Analysis III *
+4. Analysis IV *
+5. Analysis V *
+6. Algebra I *
+7. Algebra II *
+6. Algebra III *
+6. Algebra IV *
+7. Algebra V *
+5. Topology/Geometry I *
+6. Topology/Geometry II *
+6. Topology/Geometry III *
 
 
 
