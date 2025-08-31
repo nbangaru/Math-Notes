@@ -1,6 +1,6 @@
 # Math-Notes
 
- Undergraduate and beginner Graduate level math notes from School and Self-Study
+ Undergraduate and beginner Graduate level math notes in analysis, algebra, geometry, and topology from School and Self-Study
 
 * - Indicates Incomplete
 
