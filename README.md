@@ -17,7 +17,7 @@ Basics:
 
 Intermediate:
 1. Probability Theory *
-2. Mathematical Statistics *
+2. Elementary Number Theory *
 3. Linear Algebra II *
 5. Abstract Algebra *
 6. Principles of Real Analysis *
@@ -26,7 +26,6 @@ Intermediate:
 12. Partial Differential Equations II *
 14. Differential Geometry of Curves and Surfaces *
 
-
 Advanced:
 1. Set Theory and Logic *
 2. Metric Spaces and Real Analysis *
@@ -34,7 +33,7 @@ Advanced:
 3. Complex Analysis *
 4. Groups and Vector Spaces *
 5. Rings, Modules, and Fields *
-6. Commutative Algebra and Algebraic Geomtery *
+6. Commutative Algebra and Algebraic Geometry *
 7. Representation Theory *
 6. Algebraic Topology *
 6. Differential Topology *
