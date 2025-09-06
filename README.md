@@ -28,19 +28,17 @@ Intermediate:
 
 
 Advanced:
-1. Analysis I *
-2. Analysis II *
-3. Analysis III *
-4. Analysis IV *
-5. Analysis V *
-6. Algebra I *
-7. Algebra II *
-6. Algebra III *
-6. Algebra IV *
-7. Algebra V *
-5. Topology/Geometry I *
-6. Topology/Geometry II *
-6. Topology/Geometry III *
+1. Set Theory and Logic *
+2. Metric Spaces and Real Analysis *
+2. Topology and Functional Analysis *
+3. Complex Analysis *
+4. Groups and Vector Spaces *
+5. Rings, Modules, and Fields *
+6. Commutative Algebra and Algebraic Geomtery *
+7. Representation Theory *
+6. Algebraic Topology *
+6. Differential Topology *
+7. Reimannian Geometry *
 
 
 
