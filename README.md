@@ -14,17 +14,15 @@ Basics:
 6. Linear Algebra I *
 7. Ordinary Differential Equations I *
 8. Partial Differential Equations I  *
-
-Intermediate:
-1. Probability Theory *
-2. Mathematical Statitsics *
+1. Probability and Statistics I *
 3. Elementary Number Theory *
 4. Linear Algebra II *
 5. Abstract Algebra *
 6. Principles of Real Analysis *
-10. Complex Variables * 
-11. Ordinary Differential Equations II *
-12. Partial Differential Equations II *
+10. Complex Variables *
+2. Probability and Statistics II *
+12. Ordinary Differential Equations II *
+13. Partial Differential Equations II *
 14. Differential Geometry of Curves and Surfaces *
 
 Advanced:
@@ -36,7 +34,6 @@ Advanced:
 5. Groups and Vector Spaces *
 6. Rings, Modules, and Fields *
 7. Commutative Algebra and Basic Representation Theory *
-8. Algebraic Geometry  *
 6. Algebraic Topology *
 6. Smooth Manifolds *
 7. Reimannian Geometry *
