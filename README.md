@@ -29,15 +29,16 @@ Intermediate:
 
 Advanced:
 1. Set Theory and Logic *
-2. Metric Spaces and Real Analysis *
-2. Topology and Functional Analysis *
-3. Complex Analysis *
-4. Groups and Vector Spaces *
-5. Rings, Modules, and Fields *
-6. Commutative Algebra and Algebraic Geometry *
-7. Representation Theory *
+2. Metric and Topological Spaces *
+2. Measure Theory and Probability *
+3. Functional Analysis and PDE *
+4. Complex Analysis *
+5. Groups and Vector Spaces *
+6. Rings, Modules, and Fields *
+7. Commutative Algebra and Basic Representation Theory *
+8. Algebraic Geometry  *
 6. Algebraic Topology *
-6. Differential Topology *
+6. Smooth Manifolds *
 7. Reimannian Geometry *
 
 
