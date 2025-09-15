@@ -14,6 +14,7 @@ Basics:
 6. Linear Algebra I *
 7. Ordinary Differential Equations I *
 8. Partial Differential Equations I  *
+9. Discrete Math
 1. Probability and Statistics I *
 3. Elementary Number Theory *
 4. Linear Algebra II *
@@ -27,7 +28,8 @@ Basics:
 
 Advanced:
 1. Set Theory and Logic *
-2. Metric and Topological Spaces *
+2. Combinitorics and Graph Theory *
+3. Metric and Topological Spaces *
 2. Measure Theory and Probability *
 3. Functional Analysis and PDE *
 4. Complex Analysis *
