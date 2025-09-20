@@ -14,7 +14,7 @@ Basics:
 6. Linear Algebra I *
 7. Ordinary Differential Equations I *
 8. Partial Differential Equations I  *
-9. Discrete Math
+9. Discrete Math *
 1. Probability and Statistics I *
 3. Elementary Number Theory *
 4. Linear Algebra II *
